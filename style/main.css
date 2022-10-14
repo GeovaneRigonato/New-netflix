@@ -28,13 +28,15 @@ header .container {
 header .logo {
     margin-left: 10px;
     color: var(--vermelho);
-    font-family: 'Arial Black', Times;
+    font-family: 'Arial Black';
     font-size: 40px;
 }
 
 header nav a {
     text-decoration: none;
     color: #AAA;
+    font-weight: bold;
+    padding: 10px;
 }
 
 header nav a:hover {
@@ -59,6 +61,8 @@ header nav a:hover {
     margin-top: 10px;
     margin-bottom: 40px;
     text-align: justify;
+    font-size: 18px;
+    font-weight: 800;
 
 }
 
