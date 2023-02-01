@@ -104,10 +104,12 @@ header nav a:hover {
     height: 100%;
     width: 100%;
     display: block;
+    border-radius: 5px;
 }
 
 .carrosel-filmes {
     margin-top: 5px;
+    cursor: grab;
 }
 
 .autor {
@@ -116,4 +118,5 @@ header nav a:hover {
     font-style: oblique;
     font-weight: bold;
     text-align: center;
+    margin-bottom: 10px;
 }
